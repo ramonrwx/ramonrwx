@@ -1,5 +1,5 @@
-<img align="center" width="300px" height="300px" src="assets/avatar.png"/>
-<p align="center">avatar by <a href="https://instagram.com/potato_lord_but_not" target="_blank">@potato_lord_but_not</a></p>
+<p align="center"><img width="300px" height="300px" src="assets/avatar.png"/>
+<p align="center">avatar by <a href="https://instagram.com/potato_lord_but_not" target="_blank">@potato_lord_but_not</a></p></p>
 
 ## Hello, there!
 
