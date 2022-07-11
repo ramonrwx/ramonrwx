@@ -1,5 +1,5 @@
 <img align="center" src="assets/avatar.png"/>
-<h3 align="center">A developer from Brazil</h3>
+<p align="right">avatar by <a href="https://instagram.com/potato_lord_but_not" target="_blank">@potato_lord_but_not</a></p>
 
 - 🌱 I’m currently learning **javascript, golang and tests**
 
